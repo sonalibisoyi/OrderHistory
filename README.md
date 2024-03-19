@@ -1,4 +1,4 @@
-# Gett Data Science Assignment
+# GetTaxi Assignment
 
 ## Project Overview
 
